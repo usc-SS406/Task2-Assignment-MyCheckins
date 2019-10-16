@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCheckins</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_denied_explanation">Permission Denied explanation</string>
+    <string name="settings">Settings</string>
+    <string name="no_location_detected">Location Not detected</string>
+    <string name="permission_rationale">permission rationale</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

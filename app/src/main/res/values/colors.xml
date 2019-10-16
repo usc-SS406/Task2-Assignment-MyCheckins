@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="c_white">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBg">#d6d3d3</color>
+    <color name="transparent">#29000000</color>
+
+    <color name="alert_bg">#fbf9f9</color>
+    <color name="no_button">#80CBC4</color>
+    <color name="text_header">#cc1e28</color>
+    <color name="info_gray">#535353</color>
+    <color name="light_Bg">#DADFEE</color>
+    <color name="action_color">#689f38</color>
+    <color name="cancel_color">#f8f8f8</color>
+    <color name="cancel_txt_color">#aaaaaa</color>
+    <color name="c_textcolor">#333131</color>
+
+    <color name="zapp_p">#009688</color>
+    <color name="zapp_ps">#80CBC4</color>
+    <color name="zapp_psd">#FDD835</color>
+    <color name="c_pink">#D74D4B</color>
+    <color name="c_green">#5ec639</color>
+</resources>
